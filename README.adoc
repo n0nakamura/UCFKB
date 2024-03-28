@@ -1,0 +1,6 @@
+= UCFKB
+
+The purpose of UCFKB is to standardize the configuration file format of key bindings used in all operating systems, applications, etc. Centralizing the configuration through UCFKB provides the following benefits
+
+* Detection of key binding conflicts.
+* Efficient creation of key binding cheat sheets.
